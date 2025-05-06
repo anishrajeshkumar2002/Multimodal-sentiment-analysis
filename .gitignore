@@ -1,0 +1,11 @@
+CMU-MOSEI
+MOSEI
+LibreFace
+alignment_cache
+tmp
+*.pth
+*.pkl
+draft*
+MOSEI_cropped_face
+MOSEI-Seg
+Sewa
